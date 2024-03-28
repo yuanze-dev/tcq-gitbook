@@ -7,6 +7,6 @@
   * [🎬 开启提词](guide/prompt.md)
   * [⚙️ 提词设置](guide/setting.md)
   * [🌟 会员特权](guide/vip.md)
-  * [❓ 常见问题](guide/fa-q.md)
+  * [❓ 常见问题](guide/faq.md)
 * [进阶教程](advanced/README.md)
-  * [⌨️ 提词遥控器](advanced/ti-ci-yao-kong-qi.md)
+  * [⌨️ 提词遥控器](advanced/remote.md)

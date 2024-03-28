@@ -2,7 +2,7 @@
 
 ## 🥳欢迎来到芦笋提词器
 
-快捷导航：📥[下载与安装](guide/download.md)｜[📝台词创建](guide/create.md)｜[🎬开启提词](guide/prompt.md)｜[⚙️提词设置](guide/setting.md)｜[🌟会员特权](guide/vip.md)｜[❓常见问题](guide/fa-q.md)
+快捷导航：📥[下载与安装](guide/download.md)｜[📝台词创建](guide/create.md)｜[🎬开启提词](guide/prompt.md)｜[⚙️提词设置](guide/setting.md)｜[🌟会员特权](guide/vip.md)｜[❓常见问题](guide/faq.md)
 
 
 
