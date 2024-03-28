@@ -14,4 +14,4 @@ _插入视频_   遥控器功能展示 链接: https://lusun.com/v/Gq3fU7bQGCI
 
 ## 如何购买
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+> 购买芦笋提词器终身版，即可赠送一个芦笋遥控器
