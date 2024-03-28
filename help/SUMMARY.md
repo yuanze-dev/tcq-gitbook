@@ -1,9 +1,10 @@
 # Table of contents
 
 * [入门教程](README.md)
-  * [下载与安装](ru-men-jiao-cheng/download.md)
-  * [台词创建与编辑](ru-men-jiao-cheng/create.md)
-  * [开启提词](ru-men-jiao-cheng/kai-qi-ti-ci.md)
-  * [提词个性化设置](ru-men-jiao-cheng/ti-ci-ge-xing-hua-she-zhi.md)
-  * [会员特权](ru-men-jiao-cheng/hui-yuan-te-quan.md)
-  * [提词遥控器](ru-men-jiao-cheng/ti-ci-yao-kong-qi.md)
+  * [🥳 下载与安装](basicinfo/download.md)
+  * [📝 台词创建与编辑](basicinfo/create.md)
+  * [🎬 开启提词](basicinfo/prompt.md)
+  * [⚙️ 提词个性化设置](basicinfo/ti-ci-ge-xing-hua-she-zhi.md)
+  * [🌟 会员特权](basicinfo/hui-yuan-te-quan.md)
+  * [⌨️ 提词遥控器](basicinfo/ti-ci-yao-kong-qi.md)
+* [进阶教程](advanced.md)
