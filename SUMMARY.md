@@ -1,7 +1,7 @@
 # Table of contents
 
-* [基础教程](README.md)
-  * [🥳 整体预览](guide/overview.md)
+* [👏 欢迎你](README.md)
+* [基础教程](<README (1).md>)
   * [📥 下载与安装](guide/download.md)
   * [📝 台词创建](guide/create.md)
   * [🎬 开启提词](guide/prompt.md)
