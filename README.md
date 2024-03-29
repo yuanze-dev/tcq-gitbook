@@ -2,9 +2,7 @@
 
 ## 🥳欢迎来到芦笋提词器
 
-快捷导航：📥[下载与安装](guide/download.md)｜[📝台词创建](guide/create.md)｜[🎬开启提词](guide/prompt.md)｜[⚙️提词设置](guide/setting.md)｜[🌟会员特权](guide/vip.md)｜[❓常见问题](guide/faq.md)
-
-
+快捷导航：📥[下载与安装](basic/download.md)｜[📝台词创建](basic/create.md)｜[🎬开启提词](basic/prompt.md)｜[⚙️提词设置](basic/setting.md)｜[🌟会员特权](basic/vip.md)｜[❓常见问题](basic/faq.md)
 
 ## 芦笋提词器是什么？
 
@@ -26,7 +24,16 @@
 
 当前电脑端和手机端均已支持。你可以按需下载 Windows、Mac、Android、iOS 多个版本。[下载链接](https://tcq.lusun.com/download/?)
 
-电脑功能演示（待更新）
+#### 电脑端演示
 
-手机端功能演示（待更新）
+{% file src=".gitbook/assets/teleprompter.mp4" %}
 
+#### 手机端演示
+
+{% file src=".gitbook/assets/android.mp4" %}
+
+### 用户交流群
+
+欢迎加入芦笋提词器用户交流群，期待你的反馈和建议
+
+<figure><img src=".gitbook/assets/yonghuqun.png" alt="" width="338"><figcaption></figcaption></figure>
