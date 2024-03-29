@@ -1,3 +1,7 @@
+---
+description: 关于如何使用芦笋遥控器，看这篇就够了
+---
+
 # ⌨️ 提词遥控器
 
 **芦笋遥控器**是一款支持 「<mark style="color:green;">**提词器遥控**</mark>」 + 「<mark style="color:green;">**PPT翻页**</mark>」 + 「<mark style="color:green;">**直录播遥控**</mark>」 的三合一蓝牙遥控器
@@ -10,7 +14,7 @@
 
 ### 功能演示视频
 
-`插入视频`
+{% file src="../.gitbook/assets/ykqdemo1.mp4" %}
 
 芦笋遥控器是一款支持遥控提词、PPT翻页、以及遥控直播录播的三合一蓝牙遥控器。
 
@@ -22,15 +26,15 @@
 
 ### 操作教程 <a href="#f0-9f-8e-a5-e6-93-8d-e4-bd-9c-e6-95-99-e7-a8-8b" id="f0-9f-8e-a5-e6-93-8d-e4-bd-9c-e6-95-99-e7-a8-8b"></a>
 
-
+{% file src="../.gitbook/assets/ykqshiyong.mp4" %}
 
 ### 结合OBS使用
 
-
+{% file src="../.gitbook/assets/obs.mp4" %}
 
 ### 结合直播伴侣使用
 
-
+{% file src="../.gitbook/assets/zhibobanlv.mp4" %}
 
 ## 二.如何购买
 
