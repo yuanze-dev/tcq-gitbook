@@ -26,10 +26,12 @@ description: 这里介绍了芦笋会员的购买价格及功能区分
 
 #### 【终身版 + 直播课】介绍
 
-现在购买终身版，可以获得价值 ¥299 的 OBS 宝藏教学礼包
+现在购买【终身版+直播课】套餐：可以获得价值 ¥299 的 OBS 宝藏教学礼包
 
 **课程内容大纲**：
 
 <figure><img src="../.gitbook/assets/xzwk5.png" alt=""><figcaption></figcaption></figure>
 
 如何学习课程：购买【终身版 + 直播课】后，你将获得小鹅通的观看链接
+
+<figure><img src="../.gitbook/assets/xzwk6.png" alt="" width="375"><figcaption></figcaption></figure>
