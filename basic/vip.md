@@ -32,7 +32,7 @@ description: 这里介绍了芦笋会员的购买价格及功能区分
 
 <figure><img src="../.gitbook/assets/xzwk5.png" alt=""><figcaption></figcaption></figure>
 
-如何学习课程：购买【终身版 + 直播课】后，你将获得小鹅通的观看链接
+购买 [【终身版 + 直播课】](https://tcq.lusun.com/pricing/) 后，你的芦笋提词器账号将自动升级，购买的课程将获得小鹅通的观看链接，课程链接的获取请联系：
 
 <figure><img src="../.gitbook/assets/xzwk6.png" alt="" width="375"><figcaption></figcaption></figure>
 
