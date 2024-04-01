@@ -38,6 +38,7 @@ description: 这里介绍了芦笋提词器是什么，使用场景以及功能�
 
 ### 用户交流群
 
-欢迎加入芦笋提词器用户交流群，期待你的反馈和建议
+欢迎加入芦笋提词器用户交流群，你可以在群内随时反馈使用问题以及功能建议，期待你的声音～
 
-<figure><img src=".gitbook/assets/yonghuqun.png" alt="" width="338"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/quncode.png" alt="" width="198"><figcaption><p>芦笋提词器用户群</p></figcaption></figure>
+

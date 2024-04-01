@@ -50,4 +50,8 @@ macOs 系统安装：双击打开安装包，拖拽到 Application 文件夹即�
 
 <figure><img src="../.gitbook/assets/iShot_2024-03-28_14.06.22.png" alt=""><figcaption></figcaption></figure>
 
-##
+**用户交流群**
+
+欢迎加入芦笋提词器用户交流群，你可以在群内随时反馈使用问题以及功能建议，期待你的声音～
+
+<figure><img src="../.gitbook/assets/quncode.png" alt="" width="198"><figcaption><p>芦笋提词器用户群</p></figcaption></figure>

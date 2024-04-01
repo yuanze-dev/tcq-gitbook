@@ -41,3 +41,9 @@ description: 这里介绍了芦笋提词器的匀速模式和智能跟读模式
 如何开启隐形提词呢？你需要打开提词器的「设置」页面，找到 「提词器窗口隐形」 点击开关即可。
 
 <figure><img src="../.gitbook/assets/yxtici.gif" alt=""><figcaption></figcaption></figure>
+
+**用户交流群**
+
+欢迎加入芦笋提词器用户交流群，你可以在群内随时反馈使用问题以及功能建议，期待你的声音～
+
+<figure><img src="../.gitbook/assets/quncode.png" alt="" width="198"><figcaption><p>芦笋提词器用户交流群</p></figcaption></figure>

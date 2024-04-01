@@ -45,3 +45,10 @@ description: 这里介绍了如何在芦笋提词器创建文稿
 如果词条太多，或者标题未做明显标记，一时找不到，点击顶部🔍按钮，输入词条名称或词条中包含的文字，就可以找到您所需要的台词。
 
 <figure><img src="../.gitbook/assets/搜索.gif" alt=""><figcaption></figcaption></figure>
+
+**用户交流群**
+
+欢迎加入芦笋提词器用户交流群，你可以在群内随时反馈使用问题以及功能建议，期待你的声音～
+
+<figure><img src="../.gitbook/assets/quncode.png" alt="" width="198"><figcaption><p>芦笋提词器用户群</p></figcaption></figure>
+
