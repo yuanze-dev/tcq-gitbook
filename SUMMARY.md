@@ -10,4 +10,4 @@
   * [❓ 常见问题](basic/faq.md)
 * [进阶教程](advanced/README.md)
   * [⌨️ 提词遥控器](advanced/remote.md)
-  * [🫡 终身版+OBS精品课](advanced/zhong-shen-ban-+obs-jing-pin-ke.md)
+  * [🫡 终身版+OBS精品课](advanced/obslesson.md)
