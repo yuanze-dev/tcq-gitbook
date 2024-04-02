@@ -17,7 +17,7 @@ description: 这篇文章介绍了芦笋提词器终身版+OBS 精品课的超�
 
 ### 课程海报介绍
 
-<figure><img src="../.gitbook/assets/xzwk6.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/xiaozhu.jpeg" alt="" width="375"><figcaption></figcaption></figure>
 
 ### 如何学习课程
 
