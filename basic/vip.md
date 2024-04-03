@@ -24,15 +24,15 @@ description: 这里介绍了芦笋会员的购买价格及功能区分
 
 <figure><img src="../.gitbook/assets/price0401.png" alt=""><figcaption></figcaption></figure>
 
-#### 【终身版 + 直播课】介绍
+#### 【终身版 + 精品课】介绍
 
-现在购买【终身版+直播课】套餐：可以获得价值 ¥399 的 OBS 宝藏教学礼包
+现在购买【[终身版+精品课](https://tcq.lusun.com/pricing/)】套餐：可以获得价值 ¥399 的 OBS 宝藏教学礼包
 
 **课程内容大纲**：
 
 <figure><img src="../.gitbook/assets/xzwk5.png" alt=""><figcaption></figcaption></figure>
 
-购买 [【终身版 + 直播课】](https://tcq.lusun.com/pricing/) 后，你的芦笋提词器账号将自动升级，购买的课程将获得小鹅通的观看链接，课程链接的获取请联系：
+购买 【[终身版+精品课](https://tcq.lusun.com/pricing/)】 后，你的芦笋提词器账号将自动升级，购买的课程将获得小鹅通的观看链接，课程链接的获取请联系：
 
 <figure><img src="../.gitbook/assets/xiaozhu.jpeg" alt="" width="375"><figcaption></figcaption></figure>
 
