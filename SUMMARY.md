@@ -8,6 +8,8 @@
   * [⚙️ 提词设置](basic/setting.md)
   * [🌟 会员特权](basic/vip.md)
   * [❓ 常见问题](basic/faq.md)
+  * [🗳️ 申请发票](basic/invoice.md)
 * [进阶教程](advanced/README.md)
+  * [🥳 免费领会员](advanced/accessvip.md)
   * [⌨️ 提词遥控器](advanced/remote.md)
   * [🫡 终身版+OBS精品课](advanced/obslesson.md)
