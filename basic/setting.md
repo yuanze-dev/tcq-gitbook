@@ -8,7 +8,11 @@ description: 这里介绍了如何给提词器设置背景透明度，速度快�
 
 如果你需要调整提词的背景透明度、字体大小、滚动速度、段落间距、字体颜色、背景颜色等，可以在点击「开启提词」后，页面点击左下角的 ⚙️ 进行调整。
 
-<figure><img src="../.gitbook/assets/tcsetting.jpeg" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/shezhi.gif" alt=""><figcaption><p>开启提词后的设置背景透明度、提词速度等</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/tcsetting.jpeg" alt=""><figcaption><p>开启提词后的背景透明度设置等静态图</p></figcaption></figure>
 
 ### **关于提词的全局设置**
 
