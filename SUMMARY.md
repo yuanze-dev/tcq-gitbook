@@ -13,4 +13,4 @@
   * [🥳 免费领会员](advanced/accessvip.md)
   * [⌨️ 提词遥控器](advanced/remote.md)
   * [🫡 终身版+OBS精品课](advanced/obslesson.md)
-* [联系我们](lian-xi-wo-men.md)
+* [联系我们](contact.md)
