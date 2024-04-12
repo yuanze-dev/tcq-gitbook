@@ -8,9 +8,17 @@ description: 关于如何使用芦笋遥控器，看这篇就够了
 
 让直播、录课更轻松，此外，支持控制 <mark style="background-color:orange;">**OBS**</mark> 和 <mark style="background-color:orange;">**直播伴侣**</mark>等直录播软件。
 
+> 芦笋遥控器 [单买￥99 ](remote.md#er-ru-he-huo-qu-yao-kong-qi) |  购买「芦笋提词器终身版」 限时赠送遥控器 ：[购买链接直达](https://tcq.lusun.com/pricing/)
+>
+> **购买 「芦笋提词器终身版」 后，扫码联系客服领取 👇🏻**
 
+<div align="left">
 
-## 一.遥控器介绍
+<figure><img src="../.gitbook/assets/多人二维码 (2).png" alt="" width="198"><figcaption><p>凭订单截图，联系客服领取</p></figcaption></figure>
+
+</div>
+
+## 一、遥控器介绍
 
 ### 功能演示视频
 
@@ -36,15 +44,20 @@ description: 关于如何使用芦笋遥控器，看这篇就够了
 
 {% file src="../.gitbook/assets/zhibobanlv.mp4" %}
 
-## 二.如何购买
+## 二、如何获取遥控器
 
-> 现在如果你购买芦笋提词器终身版，即可赠送一个价值 ¥99 的芦笋遥控器
+> 芦笋遥控器单买￥99 &#x20;
+>
+> 现在购买芦笋提词器终身版，限时赠送一个芦笋遥控器
 
-终身版提词器：[购买链接直达](https://tcq.lusun.com/pricing/)
+* 终身版提词器：[购买链接直达](https://tcq.lusun.com/pricing/)
+* 芦笋遥控器单品购买如下：
 
-芦笋遥控器单品购买如下：
+<div align="left">
 
 <figure><img src="../.gitbook/assets/yaokongqigoumai.jpeg" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
 
 ## 三、如何连接电脑 <a href="#e4-b8-89-e3-80-81-e5-a6-82-e4-bd-95-e8-bf-9e-e6-8e-a5-e7-94-b5-e8-84-91" id="e4-b8-89-e3-80-81-e5-a6-82-e4-bd-95-e8-bf-9e-e6-8e-a5-e7-94-b5-e8-84-91"></a>
 
