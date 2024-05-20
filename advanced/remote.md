@@ -24,8 +24,6 @@ description: 关于如何使用芦笋遥控器，看这篇就够了
 
 芦笋遥控器是一款支持遥控提词、PPT翻页、以及遥控直播录播的三合一蓝牙遥控器。
 
-本遥控器为黑色ABS外壳，蓝牙链接，配2节7号电池，激光功率5mw，随机配备电池为体验电池，请尽快更换。
-
 任何支持蓝牙功能的电脑都可连接使用，在录制视频或直播时，即使远离电脑，也能轻松控制提词进度、录制效果以及ppt页面，让内容创作更轻松。
 
 同时，芦笋遥控器也可适配第三方直播录屏软件，如OBS和抖音直播伴侣等。
@@ -100,38 +98,37 @@ win11如何开启蓝牙👉🏻[点击查看](https://jingyan.baidu.com/article/
 #### Q2：可以找到 lusun 但是无法连接
 
 1. 关闭电脑蓝牙功能，重新打开，再尝试连接
-2. 可多尝试连接几次，若依然无法连接，可重启电脑后再进行连接
+2. 可多尝试连接几次，若依然无法连接，可重启电脑后再进行连接[\
+   ](https://help.lusun.com/gao-xiao-ti-ci-lu-sun-ti-ci-qi-jie-jue-fang-an/)
 
-#### Q3：电脑蓝牙显示无法连接
+#### Q3：遥控器为什么连接不上了
 
-> 注意：先检查电脑是否有蓝牙功能
+１．需更换电池（赠送电池为体验电池，激光功率5mw，随机配备电池为<mark style="color:red;">体验电池）</mark>
 
-* 若电脑有蓝牙功能，建议升级蓝牙驱动，再尝试连接
-  * Win10更新蓝牙驱动教程 👉🏻 [jingyan.baidu.com](https://jingyan.baidu.com/article/6fb756ec84280b651958fb38.html?ref=help.lusun.com)
-  * Win11更新蓝牙驱动教程 👉🏻 [jingyan.baidu.com](https://jingyan.baidu.com/article/19192ad8082213a43f570709.html?ref=help.lusun.com)
-* 对于采购的蓝牙接收器要求：支持键盘功能，硬件版本5.1以上,若无蓝牙功能建议购买「蓝牙适配器」购买推荐
+２．检查电脑是否有蓝牙
+
+　「1」若电脑有蓝牙功能：建议升级蓝牙驱动，再尝试连接
+
+* Win10更新蓝牙驱动教程 👉🏻 [jingyan.baidu.com](https://jingyan.baidu.com/article/6fb756ec84280b651958fb38.html?ref=help.lusun.com)
+* Win11更新蓝牙驱动教程 👉🏻 [jingyan.baidu.com](https://jingyan.baidu.com/article/19192ad8082213a43f570709.html?ref=help.lusun.com)
+
+　「2」若无蓝牙功能,需要购买一个蓝牙适配器「蓝牙5.1以上」购买推荐
 
 &#x20;        拼多多购买👉🏻 [拼多多商城](https://mobile.yangkeduo.com/goods1.html?refer\_share\_id=Wu51UnPZYQKVZ5mrwPYqbVonUWv2fxuJ\&refer\_share\_channel=copy\_link&\_oak\_share\_detail\_id=3967211238\&pxq\_secret\_key=643ZNGHJQ6FP4YXPWOPYAAKUHPBNIJO6SH6RDU2MIEQCPYQ6L4ZQ&\_wvx=10&\_oak\_share\_time=1706074897&\_wv=41729\&share\_uin=LWSW46VBVG74PQ3RIOAWHKD5XU\_GEXDA&\_x\_query=%E8%93%9D%E7%89%99%E9%80%82%E9%85%8D%E5%99%A8\&page\_from=23\&refer\_share\_uin=LWSW46VBVG74PQ3RIOAWHKD5XU\_GEXDA\&goods\_id=513430445715&\_oak\_share\_snapshot\_num=503&\_x\_org=2\&ref=help.lusun.com)
 
 &#x20;        淘宝购买👉🏻 https://m.tb.cn/h.5JlCckAdbgbQTBe?tk=Tx0BWR6x1BX
 
-![](<../.gitbook/assets/image (3).png>)<img src="../.gitbook/assets/image (4).png" alt="" data-size="original">[\
-](https://help.lusun.com/gao-xiao-ti-ci-lu-sun-ti-ci-qi-jie-jue-fang-an/)
+<img src="../.gitbook/assets/image (4).png" alt="" data-size="original">
 
+　
 
+3、连另一台设备之后再想连之前那台连不上了
 
-#### Q4：多台设备轮换使用同一个遥控器
+&#x20;  可以使用按照以下流程操作：
 
-举例如下：首先遥控器和A设备连接，使用正常，关掉A设备蓝牙，连接B设备，使用正常，当在回来和A设备连接使用，需要重新配对使用，首先在已连接列表里面删除原有连接设备，重新进行蓝牙连接，如果广播列表找不到Lusun设备，可以把主机蓝牙关掉，然后在打开，重新寻找，并连接。以此类推。[\
-](https://help.lusun.com/gao-xiao-ti-ci-lu-sun-ti-ci-qi-jie-jue-fang-an/)
+「1」 首先在已连接列表里面删除原有连接设备，重新进行蓝牙连接，如果广播列表找不到Lusun设备，可以把主机蓝牙关掉
 
-####
-
-
-
-
-
-
+「2」然后在打开，重新寻找，并连接
 
 
 
