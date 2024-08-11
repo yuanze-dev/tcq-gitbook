@@ -9,6 +9,7 @@
   * [🌟 会员特权](basic/vip.md)
   * [❓ 常见问题](basic/faq.md)
   * [🗳️ 申请发票](basic/invoice.md)
+  * [Android 端悬浮提词设置](basic/android-duan-xuan-fu-ti-ci-she-zhi.md)
 * [进阶教程](advanced/README.md)
   * [🥳 免费领会员](advanced/accessvip.md)
   * [⌨️ 提词遥控器](advanced/remote.md)
